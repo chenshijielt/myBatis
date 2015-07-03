@@ -13,6 +13,7 @@
         <groupId>org.mybatis</groupId>
         <artifactId>mybatis-guice</artifactId>
         <version>3.2</version>
+
     </dependency>
 </dependencies>
 </project>
